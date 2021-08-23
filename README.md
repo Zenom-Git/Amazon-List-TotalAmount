@@ -1,1 +1,7 @@
-# Amazon-List-TotalAmount
+## Amazon欲しいものリスト合計算出
+
+
+
+
+
+
