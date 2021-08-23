@@ -8,3 +8,7 @@
 以上。(次回からは3,4の繰り返し)  
 
 ## 設定(Amazon側)
+1 [Amazon公式サイト](https://www.amazon.co.jp/)を開く
+2 
+3 
+4 
